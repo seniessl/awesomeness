@@ -1,0 +1,2 @@
+# awesomeness
+basic git collaboration
